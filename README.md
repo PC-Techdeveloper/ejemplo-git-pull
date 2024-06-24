@@ -1,4 +1,4 @@
-# Repositorio para prácticar git pull
+# Repositorio para prácticar git pull (freeCodeCamp)
 Local repository to practice of the command git pull
 
 # GIT PULL VS GIT FETCH
